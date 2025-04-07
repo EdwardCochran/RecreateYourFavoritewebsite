@@ -1,0 +1,11 @@
+form {
+    max-width: 600px;
+    margin: auto;
+}
+
+button {
+    width: 100%;
+}
+h2 {text-align: center;
+    padding-bottom: 25px;
+}
