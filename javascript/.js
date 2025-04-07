@@ -1,4 +1,20 @@
-// Feed Back for what project i should do next
-// Form Validation
-// Welcome to my website Goodmorning,afternoon,evening
-// total projects completed and in progress in progress
+function showProjectCompleted() {
+    // logic of the function
+    }
+
+function showProjectsInProgress() {
+    // logic of the function
+    }
+
+function showTotalProjects() {
+    // logic of the function
+    }
+
+function validateEmail() {
+    // logic of the function
+    }
+
+function greetUsers() {
+    // logic of the function
+    }
+
